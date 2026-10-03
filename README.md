@@ -29,15 +29,6 @@ The website includes:
 - GitHub
 - GitHub Pages
 
-## 📁 Project Structure
-
-```text
-CyberVault/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
 
 ## 🎓 Learning Project
 
@@ -46,3 +37,13 @@ CyberVault is a learning project created to practice web development, Git, GitHu
 AI was used as a development and learning assistant to help with understanding concepts, writing and improving code, debugging, and exploring ideas.
 
 This project is not intended as a production cybersecurity platform.
+
+
+## 📁 Project Structure
+
+```text
+CyberVault/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
