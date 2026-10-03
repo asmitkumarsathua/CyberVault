@@ -37,3 +37,12 @@ CyberVault/
 ├── style.css
 ├── script.js
 └── README.md
+
+
+## 🎓 Learning Project
+
+CyberVault is a learning project created to practice web development, Git, GitHub, and deployment.
+
+AI was used as a development and learning assistant to help with understanding concepts, writing and improving code, debugging, and exploring ideas.
+
+This project is not intended as a production cybersecurity platform.
